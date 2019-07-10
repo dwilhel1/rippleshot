@@ -3,7 +3,7 @@ const path = require('path');
 
 const app = express();
 
-app.use(express.static('./dist/ripplershot'));
+app.use(express.static('./dist/rippleshot'));
 
 app.get('/', (req,res) => {
   res.sendFile(path.join('./dist/rippleshot/index.html'));
