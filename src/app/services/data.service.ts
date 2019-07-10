@@ -12,7 +12,7 @@ export class DataService {
   constructor(private http: HttpClient) {}
 
   public getData(): Observable<DataResponse> {
-    const url = 'https://dw-rippleshot.herokuapp.com/data';
+    const url = 'https://api.myjson.com/bins/slvbr';
 
     return this.http.get(url).pipe(
       map(data => new DataResponse(data)),

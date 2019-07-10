@@ -31,7 +31,7 @@ export class AppComponent implements OnInit, OnDestroy {
     ).subscribe((response: DataResponse) => {
       console.log(response);
     }, error => {
-      console.error(`Error requesting data: ${error}`);
+      console.error(error);
     });
   }
 }
