@@ -9,4 +9,9 @@ app.get('/', (req,res) => {
   res.sendFile(path.join('./dist/rippleshot/index.html'));
 });
 
+app.get('/data', (req,res) => {
+  res.setHeader('Content-Type', 'application/json');
+  res.sendFile(path.join('./src/assets/json/data.json'));
+});
+
 app.listen(process.env.PORT || 8080);

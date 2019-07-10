@@ -1,0 +1,99 @@
+{
+  "response": [
+    {
+      "month": "2018-10",
+      "activeCards": 191590,
+      "fraudLoss": 107913.03
+    },
+    {
+      "month": "2018-09",
+      "activeCards": 190024,
+      "fraudLoss": 126298.58
+    },
+    {
+      "month": "2018-08",
+      "activeCards": 198256,
+      "fraudLoss": 142742.04
+    },
+    {
+      "month": "2018-07",
+      "activeCards": 186656,
+      "fraudLoss": 133174.23
+    },
+    {
+      "month": "2018-06",
+      "activeCards": 185545,
+      "fraudLoss": 158109.56
+    },
+    {
+      "month": "2018-05",
+      "activeCards": 174061,
+      "fraudLoss": 150104.61
+    },
+    {
+      "month": "2018-04",
+      "activeCards": 159650,
+      "fraudLoss": 151862.52
+    },
+    {
+      "month": "2018-03",
+      "activeCards": 159571,
+      "fraudLoss": 142628.53
+    },
+    {
+      "month": "2018-02",
+      "activeCards": 155431,
+      "fraudLoss": 195651.19
+    },
+    {
+      "month": "2018-01",
+      "activeCards": 155070,
+      "fraudLoss": 129546.76
+    },
+    {
+      "month": "2017-12",
+      "activeCards": 157601,
+      "fraudLoss": 86976.39
+    },
+    {
+      "month": "2017-11",
+      "activeCards": 156590,
+      "fraudLoss": 105117.20
+    },
+    {
+      "month": "2017-10",
+      "activeCards": 156372,
+      "fraudLoss": 97841.69
+    },
+    {
+      "month": "2017-09",
+      "activeCards": 156832,
+      "fraudLoss": 100138.09
+    },
+    {
+      "month": "2017-08",
+      "activeCards": 155179,
+      "fraudLoss": 125298.79
+    },
+    {
+      "month": "2017-07",
+      "activeCards": 158696,
+      "fraudLoss": 186948.13
+    },
+    {
+      "month": "2017-06",
+      "activeCards": 158819,
+      "fraudLoss": 102560.75
+    },
+    {
+      "month": "2017-05",
+      "activeCards": 155772,
+      "fraudLoss": 118325.35
+    },
+    {
+      "month": "2017-04",
+      "activeCards": 151438,
+      "fraudLoss": 127945.33
+    }
+  ]
+}
